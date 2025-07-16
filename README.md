@@ -2,6 +2,10 @@
 
 A tmux plugin that provides a toggle functionality for a sidebar panel. The plugin allows users to show/hide a rightmost pane by converting it to/from a hidden window.
 
+
+https://github.com/user-attachments/assets/cc8d05e7-d328-4941-8772-55eb389a488e
+
+
 ## Features
 
 - **Panel Toggle**: Shows/hides rightmost pane by moving it to/from a hidden window named "hidden_panel"
